@@ -1,8 +1,8 @@
 {
   "name": "example-node-web-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An example Node.js web application",
-  "license": "NONE",
+  "license": "MIT",
   "author": {
     "name": "John Prather",
     "email": "john.c.prather@gmail.com"
