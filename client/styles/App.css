@@ -1,0 +1,22 @@
+
+.App {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #7c4b2a;
+  margin: 0px;
+  padding: 0px;
+}
+
+.App-top-bar {
+  width: 100%;
+  top: 0;
+  padding: 0px;
+  margin: 0px;
+}
+
+.App-clear-left {
+  clear: left;
+}
